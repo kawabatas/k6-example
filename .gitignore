@@ -1,0 +1,9 @@
+.vscode
+*.sublime-workspace
+*.log
+*.syso
+.idea
+*.DS_Store
+
+node_modules
+.husky
