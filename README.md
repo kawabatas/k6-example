@@ -1,5 +1,11 @@
 # k6-example
 
+学んだ k6 の Tips 集
+```
+$ k6 version
+k6 v0.33.0 ((devel), go1.16.5, darwin/amd64)
+```
+
 [Examples(k6 official)](https://k6.io/docs/examples/)
 
 [Installation](https://k6.io/docs/getting-started/installation/)
