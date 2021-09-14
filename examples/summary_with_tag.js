@@ -17,7 +17,7 @@ export let options = {
   summaryTrendStats: ["avg", "min", "med", "max", "p(95)", "p(99)", "count"],
 };
 
-export default function (data) {
+export default function () {
   let p1 = {
     tags: {
       name: "foo",
