@@ -1,6 +1,13 @@
 # k6-example
 
-https://k6.io/docs/test-types/introduction/
+[Installation](https://k6.io/docs/getting-started/installation/)
+
+macOS
+```
+brew install k6
+```
+
+[Test Types](https://k6.io/docs/test-types/introduction/)
 
 > Each test type is designed to give you different insights about your system.
 >
