@@ -1,6 +1,6 @@
 /**
  * First, a simple script.
- * k6 run 0.js
+ * k6 run examples/0.js
  */
 import http from "k6/http";
 import { sleep } from "k6";

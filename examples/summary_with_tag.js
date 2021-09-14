@@ -3,7 +3,7 @@
  * https://k6.io/docs/using-k6/thresholds/#thresholds-on-tags
  * https://github.com/grafana/k6/issues/2030
  *
- * k6 run --iterations 3 summary_with_tag.js
+ * k6 run --iterations 3 examples/summary_with_tag.js
  */
 import http from "k6/http";
 import { sleep } from "k6";

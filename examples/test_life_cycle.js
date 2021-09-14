@@ -3,7 +3,7 @@
  * https://k6.io/docs/using-k6/test-life-cycle/
  * https://k6.io/docs/results-visualization/end-of-test-summary/#handlesummary-callback
  *
- * k6 run --vus 3 --duration 5s test_life_cycle.js
+ * k6 run --vus 3 --duration 5s examples/test_life_cycle.js
  */
 import { sleep } from "k6";
 

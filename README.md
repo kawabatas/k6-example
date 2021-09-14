@@ -1,5 +1,7 @@
 # k6-example
 
+[Examples(k6 official)](https://k6.io/docs/examples/)
+
 [Installation](https://k6.io/docs/getting-started/installation/)
 
 macOS
